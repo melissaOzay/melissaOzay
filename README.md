@@ -1,6 +1,6 @@
 <h1 align="center">hi 👋, I'm melisa</h1>
 <h3 align="center">Wait for me android, I'm coming</h3>
-<h3 align="center"<a href="#"><img width="20%" height="auto" src="https://user-images.githubusercontent.com/106618067/188508210-6e417047-b56d-4935-a232-4a017586f527.png" height="175px"/></a>
+<h3 align="center"<a href="#"><img width="50%" height="auto" src="https://user-images.githubusercontent.com/106618067/188508210-6e417047-b56d-4935-a232-4a017586f527.png" height="175px"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ozaydnmelisaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozaydnmelisaa" height="30" width="40" /></a>
