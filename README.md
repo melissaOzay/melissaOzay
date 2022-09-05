@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm melisa</h1>
+<h1 align="center">hi 👋, I'm melisa</h1>
 <h3 align="center">Wait for me android, I'm coming</h3>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h3 align="left">Connect with me:</h3>
